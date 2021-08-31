@@ -1,9 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, None, None)[0m
-[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: common / Test / test, rest / Test / test, Test / test[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
-[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/knoldus/IdeaProjects/SBT_Assignment/target/scala-2.12/classes ...[0m
-[0m[[0m[0minfo[0m] [0m[0mNon-compiled module 'compiler-bridge_2.12' for Scala 2.12.12. Compiling...[0m
-[0m[[0m[0minfo[0m] [0m[0m  Compilation completed in 7.125s.[0m
-[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m
-[0m[[0m[32msuccess[0m] [0m[0mTotal time: 10 s, completed 28 Aug, 2021 10:34:15 AM[0m
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m

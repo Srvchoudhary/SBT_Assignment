@@ -1,9 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(show root/aggregate, None, None)[0m
-[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: common / aggregate, rest / aggregate, aggregate[0m
-[0m[[0m[0minfo[0m] [0m[0mcommon / aggregate[0m
-[0m[[0m[0minfo[0m] [0m[0m	true[0m
-[0m[[0m[0minfo[0m] [0m[0mrest / aggregate[0m
-[0m[[0m[0minfo[0m] [0m[0m	true[0m
-[0m[[0m[0minfo[0m] [0m[0maggregate[0m
-[0m[[0m[0minfo[0m] [0m[0m	true[0m
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
